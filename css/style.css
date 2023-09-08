@@ -1,0 +1,9 @@
+body{
+  background-color: brown;
+}
+
+.debug{
+  border: 1px solid black;
+  min-height: 50px;
+  min-width: 20px;
+}
